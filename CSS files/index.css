@@ -328,6 +328,9 @@ tbody th {
   text-align: center;
   margin: 2rem 0 1.5rem 0;
 }
+.plans__card__btn:hover{
+  scale: 1.05;
+}
 .plans__card__footer {
   font-size: 0.7rem;
   text-align: center;
