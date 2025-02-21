@@ -330,6 +330,7 @@ tbody th {
 }
 .plans__card__btn:hover{
   scale: 1.05;
+  cursor: pointer;
 }
 .plans__card__footer {
   font-size: 0.7rem;
