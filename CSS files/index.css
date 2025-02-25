@@ -106,7 +106,7 @@ body {
 /*Start Hero Section Styles */
 .hero-section {
   background-image: linear-gradient(
-    to bottom right,
+    to bottom,
     var(--pink),
     var(--total-black),
     var(--total-black),
@@ -164,10 +164,9 @@ body {
   padding-right: 11rem;
 }
 .hero__right {
-  background-image: url(../Images/new-generation.jpg);
+  background-image: url(../Images/topLeft.png);
   background-repeat: no-repeat;
-  background-position: center;
-  background-size: cover;
+  background-size:contain
 }
 /*Finish Hero Section Styles */
 
